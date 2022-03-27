@@ -2520,12 +2520,6 @@ main >.inner {
 .social .item.github i {
   color: #191717;
 }
-.social .item.google::before {
-  background-color: oogl;
-}
-.social .item.google i {
-  color: oogl;
-}
 .social .item.twitter::before {
   background-color: #00aff0;
 }
@@ -2543,12 +2537,6 @@ main >.inner {
 }
 .social .item.weibo i {
   color: #ea716e;
-}
-.social .item.about::before {
-  background-color: #3b5998;
-}
-.social .item.about i {
-  color: #3b5998;
 }
 .social .item:focus i,
 .social .item:hover i {
